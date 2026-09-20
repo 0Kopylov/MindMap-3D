@@ -1,0 +1,6 @@
+{
+  "name": "3D Mindmap",
+  "description": "Interactive 3D mindmap with spatial node drag-and-drop, dynamic Bezier connections, rich multimedia content, and topological tree branching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
